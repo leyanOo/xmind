@@ -1,3 +1,1 @@
-# xmind
-学习思维导图
-mindmap
+头脑map
