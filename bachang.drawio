@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T17:54:52.545Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" version="21.2.1" etag="UfVE-zVb3jJlxpzah4mN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T18:01:48.322Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="Xt8B5l9WxG_vnL4IaIKI" version="21.2.1" type="github">
   <diagram name="第 1 页" id="Yyy4_8_5pmzNMG0ZiebN">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fdO3qDxARdivxGLd_9Ww-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fdO3qDxARdivxGLd_9Ww-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdO3qDxARdivxGLd_9Ww-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fdO3qDxARdivxGLd_9Ww-1" target="fdO3qDxARdivxGLd_9Ww-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdO3qDxARdivxGLd_9Ww-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fdO3qDxARdivxGLd_9Ww-1" target="fdO3qDxARdivxGLd_9Ww-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdO3qDxARdivxGLd_9Ww-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fdO3qDxARdivxGLd_9Ww-1" target="fdO3qDxARdivxGLd_9Ww-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdO3qDxARdivxGLd_9Ww-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fdO3qDxARdivxGLd_9Ww-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machines_Classic.svg;" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="251.8" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="fdO3qDxARdivxGLd_9Ww-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machines_Classic.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="fdO3qDxARdivxGLd_9Ww-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Device_Enrollment.svg;" vertex="1" parent="1">
+          <mxGeometry x="530" y="253.6" width="68" height="60.4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
